@@ -1,5 +1,6 @@
-def introduction(butterfly)
-  puts "Hi, my name is #{butterfly}."
+def introduction(name)
+  puts "Hi, my name is #{name}."
 end
 
 introduction("Morgan")
+introduction("Dallas")
